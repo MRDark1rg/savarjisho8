@@ -1,0 +1,91 @@
+.nav{
+    display: inline-block;
+    margin-left: 200px;
+position: absolute;
+top: 25px;
+left: 140px;
+
+    
+}
+.icon{
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+}
+.ul{
+    display: flex;
+    
+}
+.nav-2{
+    background-color: aqua;
+    height: 80px;
+    width: 100%;
+    position: relative;
+}
+.mtavari{
+    margin-left: 100px;
+}
+.about{
+    margin-left: 100px;
+}
+.contact{
+margin-left: 100px;
+}
+body{
+    height: 2000px;
+}
+.header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+.bg{
+    background-image: url("../savarjisho8/bg.jpg");
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    
+    
+}
+.wrapper-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;    
+    width: 1120px;
+    height: 400px;
+    margin: 50px auto;
+    align-content: space-between;
+    
+    
+}
+.child-box1{
+    width: 300px;
+    height: 150px;
+    background-color: yellow;
+}
+.child-box2{
+    width: 300px;
+    height: 150px;
+    background-color: red;
+}.child-box3{
+    width: 300px;
+    height: 150px;
+    background-color: green;
+}.child-box4{
+    width: 300px;
+    height: 150px;
+    background-color: black;
+}.child-box5{
+    width: 300px;
+    height: 150px;
+    background-color: blue;
+}.child-box6{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(226, 0, 196);
+}
+body{
+    background-color: rgb(116, 94, 94);
+}
