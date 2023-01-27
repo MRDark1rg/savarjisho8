@@ -100,3 +100,21 @@ margin-left: 5px; color: aliceblue;
 margin-top: 20px;
 }
 
+
+
+.child-box1:nth-child(2) p{color:black;}
+.child-box1:nth-child(5) .p1{
+    color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
